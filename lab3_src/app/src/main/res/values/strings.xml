@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lab3_src</string>
+    <string name="port_manager">Port Manager</string>
 </resources>

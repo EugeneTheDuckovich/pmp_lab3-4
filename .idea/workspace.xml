@@ -27,45 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afb55126-8982-4ade-ba6e-41eddbe61bab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3_src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/androidTest/java/com/example/lab3_src/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/app/src/test/java/com/example/lab3_src/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_src/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/ui/pages/portCreationPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_src/app/src/main/java/com/example/lab3_src/ui/pages/portCreationPage.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +70,11 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/uni_soft/pmp_soft/pmp_lab3-4/lab3_src"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/uni_soft/pmp_soft/pmp_lab3-4/lab3_src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -41,7 +41,7 @@ import com.example.lab3_src.data.PortController
 
 @Composable
 fun PortsViewScreen(navController: NavController, portController: PortController, modifier: Modifier = Modifier) {
-    var portListMutableState by remember{ mutableStateOf(portController.ports) }
+    var portListMutableState by remember{ portController.ports }
 
     var firstPortName by remember { mutableStateOf("") }
     var secondPortName by remember { mutableStateOf("") }
@@ -80,7 +80,7 @@ fun PortsViewScreen(navController: NavController, portController: PortController
                     IconButton(
                         onClick = {
                             portController.removePort(port)
-                            portListMutableState = portController.ports
+                            portListMutableState = portController.ports.value
                         },
                         modifier = Modifier
                             .align(Alignment.CenterEnd)

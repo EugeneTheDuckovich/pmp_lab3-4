@@ -18,11 +18,13 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.sp
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.lab3_src.R
 import com.example.lab3_src.data.NavigationConstants
 import com.example.lab3_src.data.Port
 import com.example.lab3_src.data.PortController
@@ -49,7 +51,7 @@ fun PortManagerApp(portController: PortController, modifier: Modifier = Modifier
                             .background(color = Color.Transparent)
                     ) {
                         Text(
-                            text = "Port Manager",
+                            text = stringResource(R.string.port_manager),
                             textAlign = TextAlign.Center,
                             fontSize = 30.sp,
                             modifier = Modifier

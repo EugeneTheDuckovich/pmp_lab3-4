@@ -1,12 +1,14 @@
 package com.example.lab3_src.data
 
+import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateListOf
+import androidx.compose.runtime.mutableStateOf
 
 class PortController {
     private val _ports: MutableList<Port> = mutableStateListOf()
 
-    public val ports: List<Port>
-        get() = _ports.toList()
+    public val ports: MutableState<List<Port>>
+        get() = mutableStateOf(_ports.toList())
 
     public var selectedPort: Port? = null
 
